@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "AOSiP-Devices/kernel_xiaomi_sdm660",
+    "target_path": "kernel/xiaomi/sdm660",
+    "remote": "github",
+    "branch": "ten"
+  },
+  {
+    "repository": "TeamIllusion/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "remote": "gitlab",
+    "branch": "ten"
+  },
+  {
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-17.0",
+    "remote": "github"
+  }
+]
