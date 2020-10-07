@@ -603,3 +603,6 @@ PRODUCT_BOOT_JARS += \
 # DeviceSettings
 PRODUCT_PACKAGES += \
    DeviceSettings
+
+# RR Packages
+BUILD_RR_WALLPAPERS:= true
