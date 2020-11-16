@@ -102,16 +102,4 @@
     <string name="audio_amplify">Усиление звука</string>
     <string name="headphone_gain">Усиление наушников</string>
     <string name="mic_gain">Усиление микрофона</string>
-    
-    <!-- Selinux Switch -->
-    <string name="selinux_explanation_summary">SELinux - это набор модификаций ядра и инструментов пользовательского пространства. Смена режимов может вызвать нежелательные эффекты. Используйте на свой страх и риск (будет недоступен, если su не найден!).</string>
-    <string name="selinux_category">SELinux</string>
-    <string name="selinux_mode_title">SELinux режим</string>
-    <string name="selinux_permissive_summary">Permissive</string>
-    <string name="selinux_enforcing_summary">Enforcing</string>
-    <string name="selinux_persistence_title">Сохраняться при перезагрузке</string>
-    <string name="selinux_persistence_summary">Восстанавливать указанный выше режим sepolicy при каждой загрузке</string>
-    <string name="selinux_permissive_toast_title">Selinux установить permissive!</string>
-    <string name="selinux_enforcing_toast_title">Selinux установить enforcing!</string>
-    <string name="cannot_get_su">Не удалось выполнить действие из-за отсутствия доступа суперпользователя</string>
 </resources>

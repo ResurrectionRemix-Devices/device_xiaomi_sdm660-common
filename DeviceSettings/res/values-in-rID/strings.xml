@@ -102,16 +102,4 @@
     <string name="audio_amplify">Pengeras suara</string>
     <string name="headphone_gain">Headphone Gain</string>
     <string name="mic_gain">Microphone Gain</string>
-
-    <!-- Selinux Switch -->
-    <string name="selinux_explanation_summary">SELinux adalah kumpulan modifikasi terhadap kernel dan user-space. Mengganti mode dapat menyebabkan efek yang tidak diinginkan. RISIKO DITANGGUNG OLEH PENGGUNA (akan memudar saat su tidak ditemukan!).</string>
-    <string name="selinux_category">SELinux</string>
-    <string name="selinux_mode_title">Mode SELinux</string>
-    <string name="selinux_permissive_summary">Dibolehkan</string>
-    <string name="selinux_enforcing_summary">Dipaksa</string>
-    <string name="selinux_persistence_title">Bertahan setelah memulai ulang</string>
-    <string name="selinux_persistence_summary">Gunakan setelan SELinux diatas setelah memulali ulang</string>
-    <string name="selinux_permissive_toast_title">Selinux disetel ke Dibolehkan!</string>
-    <string name="selinux_enforcing_toast_title">Selinux disetel ke Dipaksa!</string>
-    <string name="cannot_get_su">Aksi gagal, tidak ada akses superuser.</string>
 </resources>

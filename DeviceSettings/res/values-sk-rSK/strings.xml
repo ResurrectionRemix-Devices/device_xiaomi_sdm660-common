@@ -102,16 +102,4 @@
     <string name="audio_amplify">Zosilnenie zvuku</string>
     <string name="headphone_gain">Zisk slúchadiel</string>
     <string name="mic_gain">Zisk mikrofónu</string>
-    
-    <!-- Selinux Switch -->
-    <string name="selinux_explanation_summary">SELinux sú úprvavy jadra (kernel) a použivateľských nástrojov. Zmena nastavení môže spôsobiť nechcené účinky. Puoužite na vlastné riziko (Nastavnie nebudú prístupné ak zariadenie nie je rootované).</string>
-    <string name="selinux_category">SELinux</string>
-    <string name="selinux_mode_title">SELinux Mód</string>
-    <string name="selinux_permissive_summary">Permisívny</string>
-    <string name="selinux_enforcing_summary">Vynútený</string>
-    <string name="selinux_persistence_title">Zanechať po reštartovaní</string>
-    <string name="selinux_persistence_summary">Obnoviť zvolenú hodnotu po každom štarte</string>
-    <string name="selinux_permissive_toast_title">Selinux je nastavný na permisívny!</string>
-    <string name="selinux_enforcing_toast_title">Selinux je nastavený na vynútený!</string>
-    <string name="cannot_get_su">Nemáte root prístup</string>
 </resources>
